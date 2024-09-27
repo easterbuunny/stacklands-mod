@@ -1,0 +1,9 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "examplemod_golden_berry",
+    "script": "Animal",
+    "nameTerm": "examplemod_golden_berry_name",
+    "descriptionTerm": "examplemod_golden_berry_description",
+    "icon": "berry",
+    "value": 10
+}
